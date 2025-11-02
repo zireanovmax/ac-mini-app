@@ -6,7 +6,7 @@ const app = express();
 const PORT = process.env.PORT || 3000;
 
 // Ваш Serveo URL - ЗАМЕНИТЕ НА СВОЙ
-const EXTERNAL_URL = 'https://9fac54a0171f587be6ccd1ec837391d1.serveo.net';
+const EXTERNAL_URL = 'https://d3615488ce24565abd1e399e62ab25cb.serveo.net';
 
 // Middleware
 app.use(express.json());
